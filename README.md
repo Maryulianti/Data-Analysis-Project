@@ -8,6 +8,6 @@ Proyek ini adalah sebuah proyek dari course Data scientist dari dicoding bertuju
 Masukkan Perintah
 
 <pre>
-  `streamlit run dashboard.py`
+  streamlit run dashboard.py
 </pre>
 
