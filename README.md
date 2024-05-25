@@ -1,4 +1,4 @@
-# Data-Analysit-Project - Bike Sharing
+# Data-Analyst-Project - Bike Sharing
 Proyek ini adalah sebuah proyek dari course Data scientist dari dicoding bertujuan menganalisis kumpulan data bike sharing menggunakan Python. Selain itu, juga untuk memberikan wawasan luas dalam mengoptimalkan layanan bike sharing dan operasional.
 
 # Proyek Dataset
